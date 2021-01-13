@@ -3,10 +3,10 @@
 
 ***Questions for LIME according to Hohmann et al. from our point of view:***
 1. **WHY**
-Interpretability & Explainability: knowing the feature contributions to the decision helps to interpret and explain why the model makes certain decisions
-Debbugging & Improving Models: identifying features that lead the model in a wrong direction (towards a misclassification) can help to improve the model
-Comparing & Selecting Models
-Education
+-Interpretability & Explainability: knowing the feature contributions to the decision helps to interpret and explain why the model makes certain decisions
+-Debbugging & Improving Models: identifying features that lead the model in a wrong direction (towards a misclassification) can help to improve the model
+-Comparing & Selecting Models
+-Education
 2. **WHO**
 Model Developers & Builders: it can help to select meaningful features respectively remove features that don't contribute to correct decisions
 Model Users: it helps to identify which features were mainly contributing to the classifcation of a certain sample, therefore give further insights to the underlying process
