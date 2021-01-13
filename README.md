@@ -1,6 +1,8 @@
 #### Approach *4*
 ***LIME - Local Interpretable Model-Agnostic Explanations:***
 
+Local Interpretable Model-agnostic Explanations (LIME) is an interpretable method proposed by scholars at the 2016 KDD conference [(Ribeiro et al., 2016)](https://arxiv.org/abs/1602.04938). Local pointed out that this method is a partially interpretable method, that is, used to explain the reason for the prediction of a specific sample. 
+
 ***Questions for LIME according to Hohmann et al. from our point of view:***
 1. **WHY**
 _ Interpretability & Explainability: knowing the feature contributions to the decision helps to interpret and explain why the model makes certain decisions
